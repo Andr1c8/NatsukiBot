@@ -11,16 +11,17 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 
 // [ Agrega el número que será Bot y los que serán propietarios. ]
 global.owner = [
-["50250101139", 'Wilmer ofc', true],
+["59173315260", 'Andr1c8', true],
 ["50258115623"], 
 ["51967997782"],
 ["573504664356"]
+["50250101139"]
 ]
 
 global.mods = []
 global.prems = []
 
-global.tagusario = ['50250101139'];
+global.tagusario = ['59173315260'];
 
 global.obtenerQrWeb = 0; //1 o 0
 global.keepAliveRender = 0; // 1 o 0
@@ -95,6 +96,7 @@ global.moment = moment
 //------------------------------------------------
 
 global.official = [
+["50250101139", 'andric editor✨', 1],
 ["50250101139", 'Wilmer ofc', 1], 
 ["50258115623", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ["51996416792", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
